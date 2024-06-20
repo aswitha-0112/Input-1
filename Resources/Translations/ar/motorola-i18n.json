@@ -1,0 +1,114 @@
+{
+  "MotorolaMotoGPower": "Motorola Moto G Power",
+  "@MotorolaMotoGPower": {
+    "description": "The Motorola Moto G Power is known for its long-lasting battery life and reliable performance.",
+    "x-StrId": "302001",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoGPower"
+  },
+  "MotorolaMotoGStylus": "Motorola Moto G Stylus",
+  "@MotorolaMotoGStylus": {
+    "description": "The Motorola Moto G Stylus features a built-in stylus for enhanced productivity and creativity.",
+    "x-StrId": "302002",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoGStylus"
+  },
+  "MotorolaMotoGFast": "Motorola Moto G Fast",
+  "@MotorolaMotoGFast": {
+    "description": "The Motorola Moto G Fast offers a smooth and responsive performance at an affordable price point.",
+    "x-StrId": "302003",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoGFast"
+  },
+  "MotorolaMotoGPlay": "Motorola Moto G Play",
+  "@MotorolaMotoGPlay": {
+    "description": "The Motorola Moto G Play is designed for gaming enthusiasts with its high-performance capabilities.",
+    "x-StrId": "302004",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoGPlay"
+  },
+  "MotorolaMotoG9Plus": "Motorola Moto G9 Plus",
+  "@MotorolaMotoG9Plus": {
+    "description": "The Motorola Moto G9 Plus offers a large display and powerful camera system for capturing memorable moments.",
+    "x-StrId": "302005",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoG9Plus"
+  },
+  "MotorolaMotoG9Power": "Motorola Moto G9 Power",
+  "@MotorolaMotoG9Power": {
+    "description": "The Motorola Moto G9 Power is renowned for its massive battery capacity, providing extended usage.",
+    "x-StrId": "302006",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoG9Power"
+  },
+  "MotorolaMotoG9Play": "Motorola Moto G9 Play",
+  "@MotorolaMotoG9Play": {
+    "description": "The Motorola Moto G9 Play delivers a seamless gaming and multimedia experience with its powerful processor.",
+    "x-StrId": "302007",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoG9Play"
+  },
+  "MotorolaMotoG8Plus": "Motorola Moto G8 Plus",
+  "@MotorolaMotoG8Plus": {
+    "description": "The Motorola Moto G8 Plus features a versatile triple camera system for capturing stunning photos and videos.",
+    "x-StrId": "302008",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoG8Plus"
+  },
+  "MotorolaMotoG8Power": "Motorola Moto G8 Power",
+  "@MotorolaMotoG8Power": {
+    "description": "The Motorola Moto G8 Power boasts an impressive battery life, ensuring uninterrupted usage throughout the day.",
+    "x-StrId": "302009",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoG8Power"
+  },
+  "MotorolaMotoG8": "Motorola Moto G8",
+  "@MotorolaMotoG8": {
+    "description": "The Motorola Moto G8 offers a sleek design and reliable performance for everyday tasks and entertainment.",
+    "x-StrId": "302010",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoG8"
+  },
+  "MotorolaMotoG7Plus": "Motorola Moto G7 Plus",
+  "@MotorolaMotoG7Plus": {
+    "description": "The Motorola Moto G7 Plus delivers exceptional performance and features for its price range.",
+    "x-StrId": "302011",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoG7Plus"
+  },
+  "MotorolaMotoG7Power": "Motorola Moto G7 Power",
+  "@MotorolaMotoG7Power": {
+    "description": "The Motorola Moto G7 Power stands out with its long-lasting battery and robust build quality.",
+    "x-StrId": "302012",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoG7Power"
+  },
+  "MotorolaMotoG7Play": "Motorola Moto G7 Play",
+  "@MotorolaMotoG7Play": {
+    "description": "The Motorola Moto G7 Play offers smooth performance and essential features at an affordable price.",
+    "x-StrId": "302013",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoG7Play"
+  },
+  "MotorolaMotoG6Plus": "Motorola Moto G6 Plus",
+  "@MotorolaMotoG6Plus": {
+    "description": "The Motorola Moto G6 Plus provides a premium smartphone experience with its sleek design and powerful performance.",
+    "x-StrId": "302014",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoG6Plus"
+  },
+  "MotorolaMotoG6Play": "Motorola Moto G6 Play",
+  "@MotorolaMotoG6Play": {
+    "description": "The Motorola Moto G6 Play offers long battery life and essential features at an affordable price point.",
+    "x-StrId": "302015",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoG6Play"
+  },
+  "MotorolaMotoE7Plus": "Motorola Moto E7 Plus",
+  "@MotorolaMotoE7Plus": {
+    "description": "The Motorola Moto E7 Plus delivers solid performance and essential features at an entry-level price point.",
+    "x-StrId": "302016",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.MotorolaMotoE7Plus"
+  }
+}

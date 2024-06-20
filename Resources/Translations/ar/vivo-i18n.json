@@ -1,0 +1,121 @@
+{
+  "VivoX60": "Vivo X60",
+  "@VivoX60": {
+    "description": "The Vivo X60 is a flagship smartphone known for its exceptional camera capabilities and sleek design.",
+    "x-StrId": "302001",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoX60"
+  },
+  "VivoX60Pro": "Vivo X60 Pro",
+  "@VivoX60Pro": {
+    "description": "The Vivo X60 Pro is a premium device offering advanced photography features and powerful performance.",
+    "x-StrId": "302002",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoX60Pro"
+  },
+  "VivoX60ProPlus": "Vivo X60 Pro Plus",
+  "@VivoX60ProPlus": {
+    "description": "The Vivo X60 Pro Plus is the top-of-the-line model with cutting-edge technology and superior camera capabilities.",
+    "x-StrId": "302003",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoX60ProPlus"
+  },
+  "VivoV21": "Vivo V21",
+  "@VivoV21": {
+    "description": "The Vivo V21 is a stylish smartphone with a focus on selfie photography and sleek aesthetics.",
+    "x-StrId": "302004",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoV21"
+  },
+  "VivoV21e": "Vivo V21e",
+  "@VivoV21e": {
+    "description": "The Vivo V21e offers a balance of performance and affordability with a sleek and compact design.",
+    "x-StrId": "302005",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoV21e"
+  },
+  "VivoY72": "Vivo Y72",
+  "@VivoY72": {
+    "description": "The Vivo Y72 is a mid-range smartphone with a large display and impressive battery life, ideal for multimedia consumption.",
+    "x-StrId": "302006",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoY72"
+  },
+  "VivoY52s": "Vivo Y52s",
+  "@VivoY52s": {
+    "description": "The Vivo Y52s offers 5G connectivity and solid performance at an affordable price point, making it a great choice for budget-conscious users.",
+    "x-StrId": "302007",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoY52s"
+  },
+  "VivoY33s": "Vivo Y33s",
+  "@VivoY33s": {
+    "description": "The Vivo Y33s is a budget-friendly smartphone with decent specifications and a reliable performance for everyday tasks.",
+    "x-StrId": "302008",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoY33s"
+  },
+  "VivoS7t": "Vivo S7t",
+  "@VivoS7t": {
+    "description": "The Vivo S7t is a gaming-centric smartphone with powerful hardware and advanced cooling technology for smooth gaming experiences.",
+    "x-StrId": "302009",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoS7t"
+  },
+  "VivoS9": "Vivo S9",
+  "@VivoS9": {
+    "description": "The Vivo S9 is designed for selfie enthusiasts, featuring a high-resolution front camera and AI-powered beautification features.",
+    "x-StrId": "302010",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoS9"
+  },
+  "VivoS9e": "Vivo S9e",
+  "@VivoS9e": {
+    "description": "The Vivo S9e offers a similar camera experience to the S9 but in a more compact and affordable package.",
+    "x-StrId": "302011",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoS9e"
+  },
+  "VivoX50Pro": "Vivo X50 Pro",
+  "@VivoX50Pro": {
+    "description": "The Vivo X50 Pro is known for its gimbal camera system, providing ultra-stable and high-quality photography and videography.",
+    "x-StrId": "302012",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoX50Pro"
+  },
+  "VivoX50": "Vivo X50",
+  "@VivoX50": {
+    "description": "The Vivo X50 offers premium design and features, including a versatile quad-camera setup and smooth performance.",
+    "x-StrId": "302013",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoX50"
+  },
+  "VivoY20": "Vivo Y20",
+  "@VivoY20": {
+    "description": "The Vivo Y20 is a budget-friendly smartphone with a large battery and decent performance for everyday use.",
+    "x-StrId": "302014",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoY20"
+  },
+  "VivoY20s": "Vivo Y20s",
+  "@VivoY20s": {
+    "description": "The Vivo Y20s offers improved specifications compared to the Y20, catering to users who need a bit more power and storage.",
+    "x-StrId": "302015",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoY20s"
+  },
+  "VivoY12s": "Vivo Y12s",
+  "@VivoY12s": {
+    "description": "The Vivo Y12s is an entry-level smartphone with essential features and a long-lasting battery, perfect for first-time smartphone users.",
+    "x-StrId": "302016",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoY12s"
+  },
+  "VivoY53s": "Vivo Y53s",
+  "@VivoY53s": {
+    "description": "The Vivo Y53s offers a balance of performance and affordability, making it suitable for users looking for a reliable daily driver.",
+    "x-StrId": "302017",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.VivoY53s"
+  }
+}
