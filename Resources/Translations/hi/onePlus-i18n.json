@@ -1,0 +1,135 @@
+{
+  "OnePlus9": "OnePlus 9",
+  "@OnePlus9": {
+    "description": "The OnePlus 9 is a flagship smartphone featuring top-tier performance and camera capabilities.",
+    "x-StrId": "401001",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus9"
+  },
+  "OnePlus9Pro": "OnePlus 9 Pro",
+  "@OnePlus9Pro": {
+    "description": "The OnePlus 9 Pro is the premium model with a larger display and advanced camera system.",
+    "x-StrId": "401002",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus9Pro"
+  },
+  "OnePlus9R": "OnePlus 9R",
+  "@OnePlus9R": {
+    "description": "The OnePlus 9R offers a balanced combination of performance and affordability.",
+    "x-StrId": "401003",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus9R"
+  },
+  "OnePlus8T": "OnePlus 8T",
+  "@OnePlus8T": {
+    "description": "The OnePlus 8T features a smooth display and powerful performance suitable for gaming and multitasking.",
+    "x-StrId": "401004",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus8T"
+  },
+  "OnePlus8Pro": "OnePlus 8 Pro",
+  "@OnePlus8Pro": {
+    "description": "The OnePlus 8 Pro offers a high-refresh-rate display and flagship-level performance.",
+    "x-StrId": "401005",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus8Pro"
+  },
+  "OnePlus8": "OnePlus 8",
+  "@OnePlus8": {
+    "description": "The OnePlus 8 delivers flagship performance with a sleek design and versatile camera setup.",
+    "x-StrId": "401006",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus8"
+  },
+  "OnePlusNord2": "OnePlus Nord 2",
+  "@OnePlusNord2": {
+    "description": "The OnePlus Nord 2 offers a premium experience at a mid-range price point with its powerful performance and camera system.",
+    "x-StrId": "401007",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlusNord2"
+  },
+  "OnePlusNordCE": "OnePlus Nord CE",
+  "@OnePlusNordCE": {
+    "description": "The OnePlus Nord CE combines affordability with performance, featuring a sleek design and decent camera capabilities.",
+    "x-StrId": "401008",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlusNordCE"
+  },
+  "OnePlusNord": "OnePlus Nord",
+  "@OnePlusNord": {
+    "description": "The OnePlus Nord offers a premium design and smooth performance at a competitive price point.",
+    "x-StrId": "401009",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlusNord"
+  },
+  "OnePlus7TPro": "OnePlus 7T Pro",
+  "@OnePlus7TPro": {
+    "description": "The OnePlus 7T Pro features a stunning display and top-of-the-line performance suitable for power users.",
+    "x-StrId": "401010",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus7TPro"
+  },
+  "OnePlus7T": "OnePlus 7T",
+  "@OnePlus7T": {
+    "description": "The OnePlus 7T offers flagship performance with smooth software experience and excellent camera capabilities.",
+    "x-StrId": "401011",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus7T"
+  },
+  "OnePlus7Pro": "OnePlus 7 Pro",
+  "@OnePlus7Pro": {
+    "description": "The OnePlus 7 Pro features a smooth display and powerful performance, ideal for multimedia consumption and gaming.",
+    "x-StrId": "401012",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus7Pro"
+  },
+  "OnePlus7": "OnePlus 7",
+  "@OnePlus7": {
+    "description": "The OnePlus 7 offers flagship-level performance and features at a competitive price point.",
+    "x-StrId": "401013",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus7"
+  },
+  "OnePlus6T": "OnePlus 6T",
+  "@OnePlus6T": {
+    "description": "The OnePlus 6T provides flagship performance with a premium design and smooth software experience.",
+    "x-StrId": "401014",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus6T"
+  },
+  "OnePlus6": "OnePlus 6",
+  "@OnePlus6": {
+    "description": "The OnePlus 6 delivers flagship performance with a sleek design and reliable camera system.",
+    "x-StrId": "401015",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus6"
+  },
+  "OnePlus5T": "OnePlus 5T",
+  "@OnePlus5T": {
+    "description": "The OnePlus 5T offers flagship performance with a premium build and excellent software experience.",
+    "x-StrId": "401016",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus5T"
+  },
+  "OnePlus5": "OnePlus 5",
+  "@OnePlus5": {
+    "description": "The OnePlus 5 provides flagship-level performance and features at a competitive price.",
+    "x-StrId": "401017",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus5"
+  },
+  "OnePlus3T": "OnePlus 3T",
+  "@OnePlus3T": {
+    "description": "The OnePlus 3T offers solid performance and software experience with a sleek design.",
+    "x-StrId": "401018",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OnePlus3T"
+  },
+  "OnePlus3": "OnePlus 3",
+  "@OnePlus3": {
+    "description": "The OnePlus 3 delivers flagship performance and features at a competitive price point.",
+    "x-StrId": "401019",
+    "x-SRKey": "Device.Get.OnePlus3"
+  }
+}
+   
