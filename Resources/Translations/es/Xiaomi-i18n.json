@@ -1,0 +1,114 @@
+{
+  "XiaomiMi11": "Xiaomi Mi 11",
+  "@XiaomiMi11": {
+    "description": "The Xiaomi Mi 11 is a flagship smartphone with advanced features and high-performance hardware.",
+    "x-StrId": "401001",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiMi11"
+  },
+  "XiaomiMi11Ultra": "Xiaomi Mi 11 Ultra",
+  "@XiaomiMi11Ultra": {
+    "description": "The Xiaomi Mi 11 Ultra is the top-tier model with a larger display and superior camera capabilities.",
+    "x-StrId": "401002",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiMi11Ultra"
+  },
+  "XiaomiMi11Lite": "Xiaomi Mi 11 Lite",
+  "@XiaomiMi11Lite": {
+    "description": "The Xiaomi Mi 11 Lite offers a balance between performance and affordability with a slim design.",
+    "x-StrId": "401003",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiMi11Lite"
+  },
+  "XiaomiRedmiNote10": "Xiaomi Redmi Note 10",
+  "@XiaomiRedmiNote10": {
+    "description": "The Xiaomi Redmi Note 10 is a mid-range smartphone with a focus on display quality and battery life.",
+    "x-StrId": "401004",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiRedmiNote10"
+  },
+  "XiaomiRedmiNote10Pro": "Xiaomi Redmi Note 10 Pro",
+  "@XiaomiRedmiNote10Pro": {
+    "description": "The Xiaomi Redmi Note 10 Pro offers enhanced performance and camera features compared to the standard Note 10.",
+    "x-StrId": "401005",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiRedmiNote10Pro"
+  },
+  "XiaomiRedmiNote9": "Xiaomi Redmi Note 9",
+  "@XiaomiRedmiNote9": {
+    "description": "The Xiaomi Redmi Note 9 is known for its reliable performance and long-lasting battery.",
+    "x-StrId": "401006",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiRedmiNote9"
+  },
+  "XiaomiRedmiNote9Pro": "Xiaomi Redmi Note 9 Pro",
+  "@XiaomiRedmiNote9Pro": {
+    "description": "The Xiaomi Redmi Note 9 Pro offers improved performance and camera capabilities compared to the standard Note 9.",
+    "x-StrId": "401007",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiRedmiNote9Pro"
+  },
+  "XiaomiMi10T": "Xiaomi Mi 10T",
+  "@XiaomiMi10T": {
+    "description": "The Xiaomi Mi 10T is a powerful smartphone with a high-refresh-rate display and capable camera system.",
+    "x-StrId": "401008",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiMi10T"
+  },
+  "XiaomiMi10TPro": "Xiaomi Mi 10T Pro",
+  "@XiaomiMi10TPro": {
+    "description": "The Xiaomi Mi 10T Pro offers flagship-level performance and camera quality with its premium features.",
+    "x-StrId": "401009",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiMi10TPro"
+  },
+  "XiaomiPocoX3": "Xiaomi Poco X3",
+  "@XiaomiPocoX3": {
+    "description": "The Xiaomi Poco X3 is a gaming-centric smartphone with a high-refresh-rate display and large battery capacity.",
+    "x-StrId": "401010",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiPocoX3"
+  },
+  "XiaomiPocoF3": "Xiaomi Poco F3",
+  "@XiaomiPocoF3": {
+    "description": "The Xiaomi Poco F3 offers flagship-like performance and features at a more affordable price point.",
+    "x-StrId": "401011",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiPocoF3"
+  },
+  "XiaomiMiNote10": "Xiaomi Mi Note 10",
+  "@XiaomiMiNote10": {
+    "description": "The Xiaomi Mi Note 10 is known for its impressive camera system and long battery life.",
+    "x-StrId": "401012",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiMiNote10"
+  },
+  "XiaomiMiNote10Pro": "Xiaomi Mi Note 10 Pro",
+  "@XiaomiMiNote10Pro": {
+    "description": "The Xiaomi Mi Note 10 Pro offers enhanced camera features and premium design compared to the standard Note 10.",
+    "x-StrId": "401013",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiMiNote10Pro"
+  },
+  "XiaomiRedmi9": "Xiaomi Redmi 9",
+  "@XiaomiRedmi9": {
+    "description": "The Xiaomi Redmi 9 is an affordable smartphone with essential features and reliable performance.",
+    "x-StrId": "401014",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiRedmi9"
+  },
+  "XiaomiRedmi9A": "Xiaomi Redmi 9A",
+  "@XiaomiRedmi9A": {
+    "description": "The Xiaomi Redmi 9A is a budget-friendly smartphone with decent performance and good battery life.",
+    "x-StrId": "401015",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.XiaomiRedmi9A"
+  },
+  "XiaomiRedmi9C": "Xiaomi Redmi 9C",
+  "@XiaomiRedmi9C": {
+    "description": "The Xiaomi Redmi 9C offers basic smartphone functionality at an affordable price.",
+    "x-StrId": "401016",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.Xiaomi"
+  }
+}

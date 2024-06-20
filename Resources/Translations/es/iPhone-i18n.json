@@ -1,0 +1,142 @@
+{
+    "iPhone12": "iPhone 12",
+    "@iPhone12": {
+      "description": "Apple iPhone 12 with 6.1-inch display and A14 Bionic chip",
+      "x-StrId": "101001",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone12"
+    },
+    "iPhone12Pro": "iPhone 12 Pro",
+    "@iPhone12Pro": {
+      "description": "Apple iPhone 12 Pro with 6.1-inch display and triple-camera system",
+      "x-StrId": "101002",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone12Pro"
+    },
+    "iPhone12ProMax": "iPhone 12 Pro Max",
+    "@iPhone12ProMax": {
+      "description": "Apple iPhone 12 Pro Max with 6.7-inch display and LiDAR scanner",
+      "x-StrId": "101003",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone12ProMax"
+    },
+    "iPhone12Mini": "iPhone 12 Mini",
+    "@iPhone12Mini": {
+      "description": "Apple iPhone 12 Mini with 5.4-inch display and A14 Bionic chip",
+      "x-StrId": "101004",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone12Mini"
+    },
+    "iPhoneSE2020": "iPhone SE (2020)",
+    "@iPhoneSE2020": {
+      "description": "Apple iPhone SE (2020) with 4.7-inch display and A13 Bionic chip",
+      "x-StrId": "101005",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhoneSE2020"
+    },
+    "iPhone11": "iPhone 11",
+    "@iPhone11": {
+      "description": "Apple iPhone 11 with 6.1-inch display and dual-camera system",
+      "x-StrId": "101006",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone11"
+    },
+    "iPhone11Pro": "iPhone 11 Pro",
+    "@iPhone11Pro": {
+      "description": "Apple iPhone 11 Pro with 5.8-inch display and triple-camera system",
+      "x-StrId": "101007",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone11Pro"
+    },
+    "iPhone11ProMax": "iPhone 11 Pro Max",
+    "@iPhone11ProMax": {
+      "description": "Apple iPhone 11 Pro Max with 6.5-inch display and A13 Bionic chip",
+      "x-StrId": "101008",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone11ProMax"
+    },
+    "iPhoneXR": "iPhone XR",
+    "@iPhoneXR": {
+      "description": "Apple iPhone XR with 6.1-inch display and A12 Bionic chip",
+      "x-StrId": "101009",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhoneXR"
+    },
+    "iPhoneXS": "iPhone XS",
+    "@iPhoneXS": {
+      "description": "Apple iPhone XS with 5.8-inch display and dual-camera system",
+      "x-StrId": "101010",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhoneXS"
+    },
+    "iPhoneXSMax": "iPhone XS Max",
+    "@iPhoneXSMax": {
+      "description": "Apple iPhone XS Max with 6.5-inch display and A12 Bionic chip",
+      "x-StrId": "101011",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhoneXSMax"
+    },
+    "iPhoneX": "iPhone X",
+    "@iPhoneX": {
+      "description": "Apple iPhone X with 5.8-inch display and Face ID",
+      "x-StrId": "101012",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhoneX"
+    },
+    "iPhone8": "iPhone 8",
+    "@iPhone8": {
+      "description": "Apple iPhone 8 with 4.7-inch display and A11 Bionic chip",
+      "x-StrId": "101013",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone8"
+    },
+    "iPhone8Plus": "iPhone 8 Plus",
+    "@iPhone8Plus": {
+      "description": "Apple iPhone 8 Plus with 5.5-inch display and dual-camera system",
+      "x-StrId": "101014",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone8Plus"
+    },
+    "iPhone7": "iPhone 7",
+    "@iPhone7": {
+      "description": "Apple iPhone 7 with 4.7-inch display and A10 Fusion chip",
+      "x-StrId": "101015",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone7"
+    },
+    "iPhone7Plus": "iPhone 7 Plus",
+    "@iPhone7Plus": {
+      "description": "Apple iPhone 7 Plus with 5.5-inch display and dual-camera system",
+      "x-StrId": "101016",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone7Plus"
+    },
+    "iPhone6S": "iPhone 6s",
+    "@iPhone6S": {
+      "description": "Apple iPhone 6s with 4.7-inch display and A9 chip",
+      "x-StrId": "101017",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone6S"
+    },
+    "iPhone6SPlus": "iPhone 6s Plus",
+    "@iPhone6SPlus": {
+      "description": "Apple iPhone 6s Plus with 5.5-inch display and A9 chip",
+      "x-StrId": "101018",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone6SPlus"
+    },
+    "iPhone6": "iPhone 6",
+    "@iPhone6": {
+      "description": "Apple iPhone 6 with 4.7-inch display and A8 chip",
+      "x-StrId": "101019",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone6"
+    },
+    "iPhone6Plus": "iPhone 6 Plus",
+    "@iPhone6Plus": {
+      "description": "Apple iPhone 6 Plus with 5.5-inch display and A8 chip",
+      "x-StrId": "101020",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.iPhone6Plus"
+    }
+  }
