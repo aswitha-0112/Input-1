@@ -1,0 +1,142 @@
+{ 
+    "SamsungGalaxyS21": "Samsung Galaxy S21",
+    "@SamsungGalaxyS21": {
+      "description": "The Samsung Galaxy S21 is a flagship smartphone with advanced features and high performance.",
+      "x-StrId": "301001",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyS21"
+    },
+    "SamsungGalaxyS21Ultra": "Samsung Galaxy S21 Ultra",
+    "@SamsungGalaxyS21Ultra": {
+      "description": "The Samsung Galaxy S21 Ultra is the top-tier model with a larger display and improved camera capabilities.",
+      "x-StrId": "301002",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyS21Ultra"
+    },
+    "SamsungGalaxyS21Plus": "Samsung Galaxy S21 Plus",
+    "@SamsungGalaxyS21Plus": {
+      "description": "The Samsung Galaxy S21 Plus offers a larger screen and enhanced battery life compared to the standard S21.",
+      "x-StrId": "301003",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyS21Plus"
+    },
+    "SamsungGalaxyS21FE": "Samsung Galaxy S21 FE",
+    "@SamsungGalaxyS21FE": {
+      "description": "The Samsung Galaxy S21 FE is a more affordable version of the S21 with a balance of features and cost.",
+      "x-StrId": "301004",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyS21FE"
+    },
+    "SamsungGalaxyNote20": "Samsung Galaxy Note 20",
+    "@SamsungGalaxyNote20": {
+      "description": "The Samsung Galaxy Note 20 is a powerful smartphone with an S Pen and advanced productivity features.",
+      "x-StrId": "301005",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyNote20"
+    },
+    "SamsungGalaxyNote20Ultra": "Samsung Galaxy Note 20 Ultra",
+    "@SamsungGalaxyNote20Ultra": {
+      "description": "The Samsung Galaxy Note 20 Ultra is the premium Note model with superior performance and display quality.",
+      "x-StrId": "301006",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyNote20Ultra"
+    },
+    "SamsungGalaxyA52": "Samsung Galaxy A52",
+    "@SamsungGalaxyA52": {
+      "description": "The Samsung Galaxy A52 offers mid-range performance with a focus on camera quality and battery life.",
+      "x-StrId": "301007",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyA52"
+    },
+    "SamsungGalaxyA72": "Samsung Galaxy A72",
+    "@SamsungGalaxyA72": {
+      "description": "The Samsung Galaxy A72 provides a larger display and enhanced camera features compared to the A52.",
+      "x-StrId": "301008",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyA72"
+    },
+    "SamsungGalaxyM51": "Samsung Galaxy M51",
+    "@SamsungGalaxyM51": {
+      "description": "The Samsung Galaxy M51 is known for its massive battery capacity and robust performance.",
+      "x-StrId": "301009",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyM51"
+    },
+    "SamsungGalaxyZFold2": "Samsung Galaxy Z Fold 2",
+    "@SamsungGalaxyZFold2": {
+      "description": "The Samsung Galaxy Z Fold 2 features a foldable display and cutting-edge technology for multitasking.",
+      "x-StrId": "301010",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyZFold2"
+    },
+    "SamsungGalaxyZFlip": "Samsung Galaxy Z Flip",
+    "@SamsungGalaxyZFlip": {
+      "description": "The Samsung Galaxy Z Flip is a foldable smartphone with a compact design and innovative features.",
+      "x-StrId": "301011",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyZFlip"
+    },
+    "SamsungGalaxyS20": "Samsung Galaxy S20",
+    "@SamsungGalaxyS20": {
+      "description": "The Samsung Galaxy S20 is a previous-generation flagship with powerful specifications and advanced camera features.",
+      "x-StrId": "301012",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyS20"
+    },
+    "SamsungGalaxyS20Ultra": "Samsung Galaxy S20 Ultra",
+    "@SamsungGalaxyS20Ultra": {
+      "description": "The Samsung Galaxy S20 Ultra offers the best in class performance and camera technology of the S20 series.",
+      "x-StrId": "301013",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyS20Ultra"
+    },
+    "SamsungGalaxyS20Plus": "Samsung Galaxy S20 Plus",
+    "@SamsungGalaxyS20Plus": {
+      "description": "The Samsung Galaxy S20 Plus provides a larger display and better battery life than the standard S20.",
+      "x-StrId": "301014",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyS20Plus"
+    },
+    "SamsungGalaxyA32": "Samsung Galaxy A32",
+    "@SamsungGalaxyA32": {
+      "description": "The Samsung Galaxy A32 is an affordable smartphone with a focus on essential features and battery life.",
+      "x-StrId": "301015",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyA32"
+    },
+    "SamsungGalaxyM31": "Samsung Galaxy M31",
+    "@SamsungGalaxyM31": {
+      "description": "The Samsung Galaxy M31 is known for its large battery, high-resolution display, and solid performance.",
+      "x-StrId": "301016",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyM31"
+    },
+    "SamsungGalaxyA12": "Samsung Galaxy A12",
+    "@SamsungGalaxyA12": {
+      "description": "The Samsung Galaxy A12 offers great value with its balanced specifications and affordable price point.",
+      "x-StrId": "301017",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyA12"
+    },
+    "SamsungGalaxyF62": "Samsung Galaxy F62",
+    "@SamsungGalaxyF62": {
+      "description": "The Samsung Galaxy F62 features a large battery, vibrant display, and solid performance for its price.",
+      "x-StrId": "301018",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyF62"
+    },
+    "SamsungGalaxyA21s": "Samsung Galaxy A21s",
+    "@SamsungGalaxyA21s": {
+      "description": "The Samsung Galaxy A21s is a budget-friendly smartphone with decent performance and good battery life.",
+      "x-StrId": "301019",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyA21s"
+    },
+    "SamsungGalaxyA71": "Samsung Galaxy A71",
+    "@SamsungGalaxyA71": {
+      "description": "The Samsung Galaxy A71 offers a large screen, powerful processor, and versatile camera system.",
+      "x-StrId": "301020",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.SamsungGalaxyA71"
+    }
+  }
