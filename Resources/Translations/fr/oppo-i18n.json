@@ -1,0 +1,72 @@
+{
+  "OppoFindX3Pro": "Oppo Find X3 Pro",
+  "@OppoFindX3Pro": {
+    "description": "The Oppo Find X3 Pro is a flagship smartphone with cutting-edge technology and exceptional camera capabilities.",
+    "x-StrId": "302001",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OppoFindX3Pro"
+  },
+  "OppoFindX3Neo": "Oppo Find X3 Neo",
+  "@OppoFindX3Neo": {
+    "description": "The Oppo Find X3 Neo offers high-end features in a sleek design, with a focus on performance and style.",
+    "x-StrId": "302002",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OppoFindX3Neo"
+  },
+  "OppoFindX3Lite": "Oppo Find X3 Lite",
+  "@OppoFindX3Lite": {
+    "description": "The Oppo Find X3 Lite provides a balance of performance and affordability, with a versatile camera system.",
+    "x-StrId": "302003",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OppoFindX3Lite"
+  },
+  "OppoReno6Pro": "Oppo Reno6 Pro",
+  "@OppoReno6Pro": {
+    "description": "The Oppo Reno6 Pro is a stylish and powerful smartphone with advanced camera features and fast charging.",
+    "x-StrId": "302004",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OppoReno6Pro"
+  },
+  "OppoReno6": "Oppo Reno6",
+  "@OppoReno6": {
+    "description": "The Oppo Reno6 offers premium features at a more affordable price point, with a focus on design and performance.",
+    "x-StrId": "302005",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OppoReno6"
+  },
+  "OppoA94": "Oppo A94",
+  "@OppoA94": {
+    "description": "The Oppo A94 is a mid-range smartphone with a sleek design, good camera capabilities, and reliable performance.",
+    "x-StrId": "302006",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OppoA94"
+  },
+  "OppoA54": "Oppo A54",
+  "@OppoA54": {
+    "description": "The Oppo A54 offers essential features at an affordable price, with a focus on battery life and durability.",
+    "x-StrId": "302007",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OppoA54"
+  },
+  "OppoA74": "Oppo A74",
+  "@OppoA74": {
+    "description": "The Oppo A74 provides a balance of performance and affordability, with a large display and decent camera system.",
+    "x-StrId": "302008",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OppoA74"
+  },
+  "OppoF19Pro": "Oppo F19 Pro",
+  "@OppoF19Pro": {
+    "description": "The Oppo F19 Pro offers a sleek design, good camera performance, and reliable battery life at a mid-range price.",
+    "x-StrId": "302009",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OppoF19Pro"
+  },
+  "OppoF19": "Oppo F19",
+  "@OppoF19": {
+    "description": "The Oppo F19 is a budget-friendly smartphone with essential features and decent performance for everyday use.",
+    "x-StrId": "302010",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.OppoF19"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "Realme8": "Realme 8",
+  "@Realme8": {
+    "description": "The Realme 8 is a mid-range smartphone with a focus on camera quality and sleek design.",
+    "x-StrId": "302001",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.Realme8"
+  },
+  "Realme8Pro": "Realme 8 Pro",
+  "@Realme8Pro": {
+    "description": "The Realme 8 Pro offers enhanced camera capabilities and faster performance compared to the standard model.",
+    "x-StrId": "302002",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.Realme8Pro"
+  },
+  "RealmeX7": "Realme X7",
+  "@RealmeX7": {
+    "description": "The Realme X7 features a high-refresh-rate display and 5G connectivity at an affordable price point.",
+    "x-StrId": "302003",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeX7"
+  },
+  "RealmeX7Pro": "Realme X7 Pro",
+  "@RealmeX7Pro": {
+    "description": "The Realme X7 Pro offers flagship-level performance with a powerful processor and impressive camera setup.",
+    "x-StrId": "302004",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeX7Pro"
+  },
+  "RealmeNarzo30": "Realme Narzo 30",
+  "@RealmeNarzo30": {
+    "description": "The Realme Narzo 30 is a budget-friendly smartphone with decent performance and a large battery.",
+    "x-StrId": "302005",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeNarzo30"
+  },
+  "RealmeNarzo30Pro": "Realme Narzo 30 Pro",
+  "@RealmeNarzo30Pro": {
+    "description": "The Realme Narzo 30 Pro offers 5G connectivity and a high-refresh-rate display for smooth gaming and multimedia experience.",
+    "x-StrId": "302006",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeNarzo30Pro"
+  },
+  "RealmeC25": "Realme C25",
+  "@RealmeC25": {
+    "description": "The Realme C25 is an entry-level smartphone with a large battery and basic features at an affordable price.",
+    "x-StrId": "302007",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeC25"
+  },
+  "RealmeC25s": "Realme C25s",
+  "@RealmeC25s": {
+    "description": "The Realme C25s offers slight improvements over the C25, including a better processor and camera enhancements.",
+    "x-StrId": "302008",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeC25s"
+  },
+  "RealmeGT": "Realme GT",
+  "@RealmeGT": {
+    "description": "The Realme GT is a flagship smartphone with top-tier specifications, including a high-refresh-rate display and Snapdragon processor.",
+    "x-StrId": "302009",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeGT"
+  },
+  "RealmeGTNeo": "Realme GT Neo",
+  "@RealmeGTNeo": {
+    "description": "The Realme GT Neo offers a balance of performance and affordability with its MediaTek Dimensity chipset and high-refresh-rate display.",
+    "x-StrId": "302010",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeGTNeo"
+  },
+  "RealmeC21": "Realme C21",
+  "@RealmeC21": {
+    "description": "The Realme C21 is a budget-friendly smartphone with a large display and decent battery life for everyday use.",
+    "x-StrId": "302011",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeC21"
+  },
+  "RealmeC11": "Realme C11",
+  "@RealmeC11": {
+    "description": "The Realme C11 is an entry-level smartphone with basic features and a long-lasting battery for casual users.",
+    "x-StrId": "302012",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeC11"
+  },
+  "RealmeC3": "Realme C3",
+  "@RealmeC3": {
+    "description": "The Realme C3 offers good value for money with its decent performance and long battery life, ideal for budget-conscious users.",
+    "x-StrId": "302013",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeC3"
+  },
+  "RealmeX2Pro": "Realme X2 Pro",
+  "@RealmeX2Pro": {
+    "description": "The Realme X2 Pro is a flagship killer with top-of-the-line specifications, including a Snapdragon 855+ processor and 90Hz display.",
+    "x-StrId": "302014",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeX2Pro"
+  },
+  "RealmeX3": "Realme X3",
+  "@RealmeX3": {
+    "description": "The Realme X3 offers a balance of performance and affordability with its Snapdragon processor and versatile camera system.",
+    "x-StrId": "302015",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.RealmeX3"
+  },
+  "Realme6": "Realme 6",
+  "@Realme6": {
+    "description": "The Realme 6 is a budget-friendly smartphone with a high-refresh-rate display and capable quad-camera setup.",
+    "x-StrId": "302016",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.Realme6"
+  },
+  "Realme6Pro": "Realme 6 Pro",
+  "@Realme6Pro": {
+    "description": "The Realme 6 Pro offers enhanced performance and camera capabilities compared to the standard model, making it ideal for multimedia enthusiasts.",
+    "x-StrId": "302017",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.Realme6Pro"
+  }
+}
